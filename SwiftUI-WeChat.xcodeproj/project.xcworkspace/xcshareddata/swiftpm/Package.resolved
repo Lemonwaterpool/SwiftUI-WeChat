@@ -2,20 +2,11 @@
   "object": {
     "pins": [
       {
-        "package": "GSPlayer",
-        "repositoryURL": "https://github.com/wxxsw/GSPlayer.git",
-        "state": {
-          "branch": null,
-          "revision": "1cb5fbb04d6bdfdfcc5948a41547fa3f3c584ea3",
-          "version": "0.2.10"
-        }
-      },
-      {
         "package": "Refresh",
         "repositoryURL": "https://github.com/wxxsw/Refresh",
         "state": {
           "branch": "master",
-          "revision": "1b58502ae7c9c49002e4fd8947b02b8b2b2d968a",
+          "revision": "e3a1f1f5b9056000981d2a5cfade72b5d7ad8651",
           "version": null
         }
       },
@@ -24,7 +15,7 @@
         "repositoryURL": "https://github.com/wxxsw/VideoPlayer",
         "state": {
           "branch": "master",
-          "revision": "e357bb08e8d95c7162678c8c9789aea004930ffa",
+          "revision": "ba848b6b53bd513dacb098b08777bcfd960f4937",
           "version": null
         }
       }

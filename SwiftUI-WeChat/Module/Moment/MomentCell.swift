@@ -162,7 +162,7 @@ private struct Video: View {
     
     var body: some View {
         ZStack {
-            VideoPlayer(url: URL(string: video.url!)!, play: $play)
+            VideoPlayer(url: URL(string: video.url!)!, isPlay: $play)
                 .onStateChanged { state in
                     switch state {
                     case .playing:  self.isPlaying = true
